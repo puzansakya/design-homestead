@@ -7,8 +7,8 @@
     "normalize-scss": "^7.0.1"
   },
   "devDependencies": {
-    "husky": "^7.0.4",
-    "lint-staged": "^11.2.6",
+    "husky": "^4.2.5",
+    "lint-staged": "^10.2.11",
     "node-sass": "^4.14.1",
     "nodemon": "^2.0.4",
     "prettier": "^2.0.5",
